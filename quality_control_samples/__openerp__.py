@@ -20,13 +20,14 @@
 ##############################################################################
 {
     "name": "Quality control - Samples in inspections",
-    "version": "1.0",
+    "version": "9.0.0.0.1",
     "depends": [
         "quality_control",
     ],
     "author": "OdooMRP team,"
               "AvanzOSC,"
-              "Serv. Tecnol. Avanzados - Pedro M. Baeza",
+              "Serv. Tecnol. Avanzados - Pedro M. Baeza, "
+              "Fábrica de Software Libre - Daniel Mendieta Pacheco",
     "category": "Quality control",
     'data': [
         'security/ir.model.access.csv',
@@ -34,5 +35,5 @@
         'views/qc_test_view.xml',
         'views/qc_inspection_view.xml',
     ],
-    'installable': False,
+    'installable': True,
 }
