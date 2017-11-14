@@ -1,4 +1,4 @@
-# -*- encoding: utf-8 -*-
+# -*- coding: utf-8 -*-
 ##############################################################################
 #
 #    Avanzosc - Advanced Open Source Consulting
@@ -18,6 +18,7 @@
 #    along with this program.  If not, see http://www.gnu.org/licenses/.
 #
 ##############################################################################
+
 {
     "name": "Quality control - Samples in inspections",
     "version": "9.0.0.0.1",
