@@ -42,6 +42,9 @@ The complete inspection workflow is:
 
 Based on the nan_quality_control_* modules from NaN·tic.
 
+In order to have a completely working enviroment you should install:
+* quality_control_mrp, or
+* quality_control_stock modules.
 
 Usage
 =====
